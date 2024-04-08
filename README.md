@@ -1,4 +1,4 @@
-# # api-automation-test-with-rest-assured
+## api-automation-test-with-rest-assured
 
 ## Descrição
 Este código foi desenvolvido para o desafio técnico da Drogaria Araujo. Estas instruções fornecerão uma cópia do projeto para execução e alteração em sua máquina local para fins de desenvolvimento e teste. Consulte as instruções abaixo para saber como baixar e executar o projeto.
