@@ -1,0 +1,4 @@
+utils\ResourceUtils.class
+tests\StoreTest.class
+tests\SetupGenericBase.class
+tests\PetTest.class
