@@ -5,10 +5,11 @@ Este código foi desenvolvido para o desafio técnico da Drogaria Araujo. Estas 
 
 ## Frameworks e tecnologias
 -   [Java](https://www.oracle.com/java/technologies/downloads/): Java é uma linguagem de programação orientada a objetos;
-- [Eclipse](https://www.eclipse.org/downloads/): Eclipse é uma IDE para desenvolvimento Java, porém suporta várias outras linguagens a partir de plugins como C/C++, PHP, ColdFusion, Python, Scala e Kotlin;
+-   [Eclipse](https://www.eclipse.org/downloads/): Eclipse é uma IDE para desenvolvimento Java, porém suporta várias outras linguagens a partir de plugins como C/C++, PHP, ColdFusion, Python, Scala e Kotlin;
 -   [Maven](https://maven.apache.org/download.cgi): O apache Maven ou Maven é uma ferramenta de automação de compilação;
 -   [RestAssured](https://github.com/rest-assured/rest-assured/wiki/GettingStarted): Rest-Assured é uma ferramenta que foi desenvolvida para facilitar a criação de testes automatizados para APIS Rest. Está oferece suporte para validar protocolo HTTP e requisições em JSON;
 -   [TestNG](https://testng.org/#_download): TestNG é uma estrutura de teste para a linguagem java.
+-   [java-faker](https://github.com/ReGYChang/java-faker): É uma biblioteca poderosa e flexível para gerar dados fictícios para vários casos de uso, como testes, prototipagem ou preenchimento de bancos de dados.
 
 ## Realizar download do Projeto
 
