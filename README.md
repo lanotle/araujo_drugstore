@@ -79,7 +79,7 @@ Em _StoreTest_ temos:
 
 ## Executando os testes
 
-Clique com o botão direito sobre _RestAssuredAutomation_, abrirá uma janela e nela, clique em _Run As >> Maven clean_ feito isso, clique novamente em _Run As >> Maven install_, neste momento os testes serão executados e você poderá verificar os resultados na aba console do Eclipse, ou navegar até a pasta _**test-output**_, nela contém dentre vários arquivos, um de nome _**index.html**_. Clique nele com o botão direito do mouse e na janela que se abrir, clique em _Open With_ >> _Web Browser_, neste momento, será aberto uma aba em seu navegador e nele será exibido o relatório da execução dos testes que você acabou de executar.
+Clique com o botão direito sobre _RestAssuredAutomation_, abrirá uma janela e nela, clique em _Run As >> Maven clean_ feito isso, clique novamente em _Run As >> Maven install_, neste momento os testes serão executados e você poderá verificar os resultados na aba console do Eclipse, ou navegar até a pasta _**target**_ >> _**sufire-reports**_, nela contém vários arquivos, um de nome _**index.html**_. Clique nele com o botão direito do mouse e na janela que se abrir, clique em _Open With_ >> _Web Browser_, neste momento, será aberto uma aba em seu navegador e nele será exibido o relatório da execução dos testes que você acabou de executar.
 Em _Results_, em _Passed methods_, você pode clicar em _(show)_ e ter acesso a mais detalhes dos testes executados.
 
 ## Autor
